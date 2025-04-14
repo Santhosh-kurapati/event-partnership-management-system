@@ -1,4 +1,4 @@
-#event-partnership-management-system
+Event Partnership Management System
 
 Developed a comprehensive RESTful API for an event management platform using Spring Boot, enabling organizations to create, manage, and partner on events. Implemented a robust authentication system with role-based access control (ADMIN and PARTNER_REP roles) using Spring Security and JWT tokens. Designed and built a multi-layered architecture with controllers, services, and repositories following best practices.
 Key Technical Implementations:
